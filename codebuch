@@ -1,0 +1,48 @@
+Datensatz Desiderius Erasmus Stiftung
+erstellt von: Lennart Stadtfeld (ls204), Paul Weinbrenner (pw054), Vanessa Stagen (vs103), Lenya Trautmann (lt043), Jan Schomacher (js422)
+ 
+Ursprung und Datenerhebung
+Eigene Recherche
+Das Netzwerk ist ein ungerichtetes two-mode Akteursnetzwerk.
+EDGE-Attribute
+id
+eindeutige Codierung des Knoten für jeweils einen Akteur (Person oder Organisation)
+weight
+Beziehungsstärke, basierend darauf 
+ob die Beziehung noch besteht oder eine ehemalige ist 
+und welche Funktion vorliegt oder -lag.
+3 = starke Beziehung
+1 = schwache Beziehung
+relation
+Art der Beziehung
+1 = mit Verantwortung
+2 = Mitglied, involviert
+3 = Unterstützung
+NODE-Attribute
+id
+Identische ID wie aus der edgelist zur Identifikation der Knoten
+type
+handelt es sich um einen Person oder eine Organisation?
+1 = Organisation
+2 = Person
+sex
+Geschlecht der Personen
+1 = weiblich
+2 = männlich
+3 = divers
+afd 
+atkuell Mitgliedschaft von Personen in der Partei Alternative für Deutschland
+1 = Ja
+2 = Nein
+3= Ehemalig
+age
+Alter der Personen
+1 = bis 40
+2 = 41 bis 50 Jahre
+3 = 51 bis 60 Jahre
+4 = 60 und älter
+name
+voller Name, ausgeschrieben, ohne Titel
+region
+1 = West
+2= Ost
