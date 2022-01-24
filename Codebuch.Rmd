@@ -33,7 +33,7 @@ Geschlecht der Personen
 atkuell Mitgliedschaft von Personen in der Partei Alternative für Deutschland
 1 = Ja
 2 = Nein
-3= Ehemalig
+3 = Ehemalig
 
 **age** 
 Alter der Personen
@@ -72,8 +72,8 @@ stand die Person/Organisation im Konfilt mit dem Gesetz
 3 = Beobachtung durch den Verfassungsschutz
 
 **holocaust** 
-1 = leugnet den Holocaust
-2 = spielt den Holocaust runter
+1 = Leugnet den Holocaust
+2 = Spielt den Holocaust runter
 3 = Erkennt den Holocaust an
 
 **Bundesland** 
