@@ -17,6 +17,10 @@ Art der Beziehung
 **entry** 
 Datum des Eintritts
 
+**status**
+1 = aktiv
+2 = Inaktiv
+
 ## NODE-Attribute
 ** type** 
 handelt es sich um einen Person oder eine Organisation?
