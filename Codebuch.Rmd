@@ -66,7 +66,7 @@ Bildungsstand
 Fachrichtung der Bildung
 1 = Wirtschaft
 2 = Jura
-3 = Sozialwissenschaften
+3 = Geisteswissenschaften
 4 = Naturwissenschaften
 5 = Technik
 
