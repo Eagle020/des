@@ -16,7 +16,7 @@ Art der Beziehung
 
 **entry** 
 Erster öffentlicher Kontakt
-datum
+JJJJ-MM
 
 **status**
 1 = aktiv
@@ -78,10 +78,21 @@ stand die Person/Organisation im Konfilt mit dem Gesetz
 
 **holocaust** 
 1 = Leugnet den Holocaust
-2 = Spielt den Holocaust runter
+2 = Relativiert den Holocaust
 3 = Erkennt den Holocaust an
 
-**Bundesland** 
+**ideologie**
+1 = Rassismus
+2 = Querdenken
+3 = Verschwörugnstheorie
+4 = Homophobie
+5 = Antisemitismus
+6 = Relativierung NS-Zeit
+7 = Persönliche Beldeiung 
+8 = Sexismus 
+
+
+**bundesland** 
 1 = Baden-Württemberg
 2 = Bayern
 3 = Berlin
