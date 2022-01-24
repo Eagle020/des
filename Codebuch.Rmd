@@ -62,7 +62,7 @@ Bildungsstand
 4 = Doktor
 5 = Professor 
 6 = Sonstiges
-7 = Kein höhrerer Bildungsabschluss
+7 = Kein höherer Bildungsabschluss
 
 **subject**  
 Fachrichtung der Bildung
