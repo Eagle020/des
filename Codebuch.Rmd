@@ -15,7 +15,8 @@ Art der Beziehung
 4 = Erwähnung
 
 **entry** 
-Datum des Eintritts
+Erster öffentlicher Kontakt
+datum
 
 **status**
 1 = aktiv
