@@ -61,6 +61,8 @@ Bildungsstand
 3 = Master
 4 = Doktor
 5 = Professor 
+6 = Sonstiges
+7 = Kein höhrerer Bildungsabschluss
 
 **subject**  
 Fachrichtung der Bildung
