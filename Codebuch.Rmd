@@ -69,6 +69,7 @@ Fachrichtung der Bildung
 3 = Geisteswissenschaften
 4 = Naturwissenschaften
 5 = Technik
+6 = Handwerk
 
 **law_conflict** 
 stand die Person/Organisation im Konfilt mit dem Gesetz
