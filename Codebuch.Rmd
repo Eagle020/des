@@ -50,10 +50,6 @@ Alter der Personen
 **name** 
 voller Name, ausgeschrieben, ohne Titel
 
-**region** 
-1 = West
-2 = Ost
-
 **education** 
 Bildungsstand
 1 = Abitur
@@ -72,28 +68,13 @@ Fachrichtung der Bildung
 4 = Naturwissenschaften
 5 = Technik
 6 = Handwerk
+7 = Sonstiges
 
 **law_conflict** 
 stand die Person/Organisation im Konfilt mit dem Gesetz
 1 = Nein
 2 = Verklagt wegen rechter Einstellung
 3 = Beobachtung durch den Verfassungsschutz
-
-**holocaust** 
-1 = Leugnet den Holocaust
-2 = Relativiert den Holocaust
-3 = Erkennt den Holocaust an
-
-**ideologie**
-1 = Rassismus
-2 = Querdenken
-3 = Verschwörugnstheorie
-4 = Homophobie
-5 = Antisemitismus
-6 = Relativierung NS-Zeit
-7 = Persönliche Beldeiung 
-8 = Sexismus 
-
 
 **bundesland** 
 1 = Baden-Württemberg
