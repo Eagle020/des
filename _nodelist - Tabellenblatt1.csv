@@ -3,7 +3,7 @@ id,type,name,sex,age,bundesland,education,subject,afd,law_conflict
 2,2,Klaus Peter Krause,2,4,15,4,1,1,1
 3,2,Joachim Keiler,2,4,13,4,2,1,1
 4,2,Gerhard Fischer,2,4,10,4,1,1,1
-5,2,Stefan Sellschopp,2,3,15,4,1,0,1
+5,2,Stefan Sellschopp,2,3,15,4,1,2,1
 6,2,Thore Stein,2,1,8,3,4,1,1
 7,2,Hans Hausberger,2,4,10,6,1,1,1
 8,2,Martin Louis Schmidt,2,3,11,3,3,1,1
