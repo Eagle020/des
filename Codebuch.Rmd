@@ -46,6 +46,7 @@ Alter der Personen
 2 = 41 bis 50 Jahre
 3 = 51 bis 60 Jahre
 4 = 60 und älter
+5 = Tod
 
 **name** 
 voller Name, ausgeschrieben, ohne Titel
