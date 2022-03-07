@@ -1,11 +1,15 @@
 # Datensatz Desiderius Erasmus Stiftung
-Codebuch Stand 24.01.2022
+Codebuch Stand 07.03.2022
 
 
 ## EDGE-Attribute
 
 **id** 
 eindeutige Codierung des Knoten für jeweils einen Akteur (Person oder Organisation)
+
+**status**
+1 = aktiv
+2 = Inaktiv
 
 **relation** 
 Art der Beziehung
@@ -18,27 +22,23 @@ Art der Beziehung
 Erster öffentlicher Kontakt
 JJJJ-MM
 
-**status**
-1 = aktiv
-2 = Inaktiv
-
 ## NODE-Attribute
+** id ** 
+durchlaufende Nummer
+
 ** type** 
 handelt es sich um einen Person oder eine Organisation?
 1 = Organisation
 2 = Person
+
+**name** 
+voller Name, ausgeschrieben, ohne Titel
 
 **sex** 
 Geschlecht der Personen
 1 = weiblich
 2 = männlich
 3 = divers
-
-**afd** 
-atkuell Mitgliedschaft von Personen in der Partei Alternative für Deutschland
-1 = Ja
-2 = Nein
-3 = Ehemalig
 
 **age** 
 Alter der Personen
@@ -48,8 +48,23 @@ Alter der Personen
 4 = 60 und älter
 5 = Tod
 
-**name** 
-voller Name, ausgeschrieben, ohne Titel
+**bundesland** 
+1 = Baden-Württemberg
+2 = Bayern
+3 = Berlin
+4 = Brandenburg
+5 = Bremen
+6 = Hamburg
+7 = Hessen
+8 = Mecklenburg-Vorpommern
+9 = Niedersachsen
+10 = Nordrhein-Westfalen
+11 = Rheinland-Pfalz
+12 = Saarland
+13 = Sachsen
+14 = Sachsen-Anhalt
+15 = Schleswig-Holstein
+16 = Thüringen
 
 **education** 
 Bildungsstand
@@ -71,26 +86,14 @@ Fachrichtung der Bildung
 6 = Handwerk
 7 = Sonstiges
 
+**afd** 
+atkuell Mitgliedschaft von Personen in der Partei Alternative für Deutschland
+1 = Ja
+2 = Nein
+3 = Ehemalig
+
 **law_conflict** 
 stand die Person/Organisation im Konfilt mit dem Gesetz
 1 = Nein
 2 = Verklagt wegen rechter Einstellung
 3 = Beobachtung durch den Verfassungsschutz
-
-**bundesland** 
-1 = Baden-Württemberg
-2 = Bayern
-3 = Berlin
-4 = Brandenburg
-5 = Bremen
-6 = Hamburg
-7 = Hessen
-8 = Mecklenburg-Vorpommern
-9 = Niedersachsen
-10 = Nordrhein-Westfalen
-11 = Rheinland-Pfalz
-12 = Saarland
-13 = Sachsen
-14 = Sachsen-Anhalt
-15 = Schleswig-Holstein
-16 = Thüringen
