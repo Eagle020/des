@@ -23,13 +23,22 @@ Erster öffentlicher Kontakt
 JJJJ-MM
 
 ## NODE-Attribute
-** id ** 
+**id** 
 durchlaufende Nummer
 
-** type** 
+**type** 
 handelt es sich um einen Person oder eine Organisation?
 1 = Organisation
 2 = Person
+
+**kind** 
+1 = Person
+2 = Partei
+3 = Vertriebenenverband
+4 = Burschenschaft
+5 = Medium
+6 = Sonstiges
+
 
 **name** 
 voller Name, ausgeschrieben, ohne Titel
