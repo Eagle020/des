@@ -38,6 +38,7 @@ handelt es sich um einen Person oder eine Organisation?
 4 = Burschenschaft
 5 = Medium
 6 = Sonstiges
+7 = DES
 
 
 **name** 
