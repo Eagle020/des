@@ -40,7 +40,6 @@ handelt es sich um einen Person oder eine Organisation?
 6 = Sonstiges
 7 = DES
 
-
 **name** 
 voller Name, ausgeschrieben, ohne Titel
 
