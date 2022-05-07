@@ -54,7 +54,8 @@ abgekürzter Name
 Geschlecht der Personen
 1 = weiblich
 2 = männlich
-3 = divers
+3 = Organisation
+4 = divers
 
 **age** 
 Alter der Personen
