@@ -74,6 +74,8 @@ Alter der Personen
 14 = Sachsen-Anhalt
 15 = Schleswig-Holstein
 16 = Thüringen
+17 = Deutschlandweit
+18 = Interntional
 
 **education** 
 Bildungsstand
