@@ -3,7 +3,6 @@ Codebuch Stand 07.03.2022
 
 
 ## EDGE-Attribute
-
 **status**
 1 = aktiv
 2 = Inaktiv
