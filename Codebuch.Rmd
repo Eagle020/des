@@ -4,9 +4,6 @@ Codebuch Stand 07.03.2022
 
 ## EDGE-Attribute
 
-**id** 
-eindeutige Codierung des Knoten für jeweils einen Akteur (Person oder Organisation)
-
 **status**
 1 = aktiv
 2 = Inaktiv
@@ -28,7 +25,7 @@ JJJJ-MM
 
 ## NODE-Attribute
 **id** 
-durchlaufende Nummer
+eindeutige Codierung des Knoten für jeweils einen Akteur
 
 **type** 
 handelt es sich um einen Person oder eine Organisation?
