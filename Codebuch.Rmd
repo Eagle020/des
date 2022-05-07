@@ -22,6 +22,10 @@ Art der Beziehung
 Erster öffentlicher Kontakt
 JJJJ-MM
 
+**exit**
+Letzter öffentlicher Kontakt
+JJJJ-MM
+
 ## NODE-Attribute
 **id** 
 durchlaufende Nummer
@@ -42,6 +46,9 @@ handelt es sich um einen Person oder eine Organisation?
 
 **name** 
 voller Name, ausgeschrieben, ohne Titel
+
+**name_short**
+abgekürzter Name
 
 **sex** 
 Geschlecht der Personen
