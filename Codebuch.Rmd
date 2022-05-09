@@ -1,5 +1,5 @@
 # Datensatz Desiderius Erasmus Stiftung
-Codebuch Stand 07.03.2022
+Codebuch Stand 09.05.2022
 
 
 ## EDGE-Attribute
